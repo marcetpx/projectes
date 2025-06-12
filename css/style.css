@@ -380,7 +380,7 @@ html {
 }
 
 .services .services-info .service:nth-child(2) .service-card .service-front {
-	background-image: url(../images/img-1.png);
+	background-image: url(.../images/img-1.png);
 	background-size: cover;
 	position: relative;
 	color: whitesmoke;
@@ -418,7 +418,7 @@ html {
 	font-size: 1.3rem;
 	margin-top: 10px;
 	text-align: center;
-	background-image: url(../images/img-1.png);
+	background-image: url(.../images/img-1.png);
 	background-size: cover;
 	position: relative;
 	color: whitesmoke;
@@ -647,7 +647,7 @@ html {
 #ciclo1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/comerc.jpg');
+		url('../images/comerc.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -655,7 +655,7 @@ html {
 #ciclo2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/etiques1.jpg');
+		url('../images/etiques1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -663,7 +663,7 @@ html {
 #ciclo3 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/gestio.jpg');
+		url('../images/gestio.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -671,7 +671,7 @@ html {
 #ciclo4 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/CAI1.jpg');
+		url('../images/CAI1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -679,7 +679,7 @@ html {
 #ciclo5 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/farmacia1.jpg');
+		url('../images/farmacia1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -687,7 +687,7 @@ html {
 #ciclo6 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/cobeer1.jpg');
+		url('../images/cobeer1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -695,7 +695,7 @@ html {
 #ciclo7 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/infantil1.jpg');
+		url('../images/infantil1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -703,7 +703,7 @@ html {
 #ciclo8 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/daw1.jpg');
+		url('../images/daw1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -711,7 +711,7 @@ html {
 #ciclo9 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/hort4.jpg');
+		url('../images/hort4.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -719,7 +719,7 @@ html {
 #hort {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/hort4.jpg');
+		url('../images/hort4.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -727,7 +727,7 @@ html {
 #iguals {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/iguals.jpg');
+		url('../images/iguals.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -735,7 +735,7 @@ html {
 #lectura {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/lectura.jpg');
+		url('../images/lectura.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -745,7 +745,7 @@ html {
 #cava1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/cava1.jpg');
+		url('../images/cava1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -753,7 +753,7 @@ html {
 #port1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/port1.jpg');
+		url('../images/port1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -761,7 +761,7 @@ html {
 #port2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/port2.jpg');
+		url('../images/port2.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -769,7 +769,7 @@ html {
 #cobeer1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/cobeer1.jpg');
+		url('../images/cobeer1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -777,7 +777,7 @@ html {
 #cobeer2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/cobeer2.jpg');
+		url('../images/cobeer2.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -785,7 +785,7 @@ html {
 #cobeer1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/cobeer3.jpg');
+		url('../images/cobeer3.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -793,7 +793,7 @@ html {
 #adifin1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/etiques1.jpg');
+		url('../images/etiques1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -801,7 +801,7 @@ html {
 #adifin2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/etiques2.jpg');
+		url('../images/etiques2.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -809,7 +809,7 @@ html {
 #adifin3 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/etiques3.jpg');
+		url('../images/etiques3.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -817,7 +817,7 @@ html {
 #gestio1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/gestio1.jpg');
+		url('../images/gestio1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -825,7 +825,7 @@ html {
 #gestio2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/gestio2.jpg');
+		url('../images/gestio2.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -833,7 +833,7 @@ html {
 #gestio3 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('./images/gestio3.jpg');
+		url('../images/gestio3.jpg');
 	background-size: cover;
 	background-position: center;
 }
