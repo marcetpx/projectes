@@ -841,7 +841,7 @@ html {
 #comerc1 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('../images/comerc1.jpeg');
+		url('../images/comerc1.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -849,7 +849,7 @@ html {
 #comerc2 {
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
-		url('../images/comerc2.jpeg');
+		url('../images/comerc2.jpg');
 	background-size: cover;
 	background-position: center;
 }
