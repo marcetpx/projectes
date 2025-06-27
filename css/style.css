@@ -861,3 +861,51 @@ html {
 	background-size: cover;
 	background-position: center;
 }
+
+#daw2 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/daw2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#daw3 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/daw3.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#daw4 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/daw4.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#cai2 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/cai2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#cai3 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/cai3.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#cai4 {
+	background-image:
+		linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)),
+		url('../images/cai4.jpg');
+	background-size: cover;
+	background-position: center;
+}
